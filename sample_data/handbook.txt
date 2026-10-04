@@ -1,0 +1,10 @@
+ACME Corp Employee Handbook (sample data for Hybrid RAG demo).
+
+Leave policy: Employees receive 20 paid vacation days annually.
+Vacation days do not carry over beyond March of the following year.
+
+Refund policy: Refunds are available within 30 days of purchase with receipt.
+Contact support@example.com to start a refund request.
+
+IT help: Reset your password via the forgot-password link on the login page.
+If locked out, call the IT desk at extension 4357.
